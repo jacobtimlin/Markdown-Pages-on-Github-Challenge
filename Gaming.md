@@ -17,3 +17,6 @@ Whenever I want to chill out and play a game that doesn't require too much effor
 #### Favorite of all time
 
 My favorite video game of all time is Terraria. Terraria is so fun to me because every run you play is different, however it's more of a survival game than something like a roguelike. You could find an enchanted sword shrine in one world and play through with that a good portion of the early game, and then in a different world find a boomerang and have to adapt to what you get. I think that games like Terraria actually teach you a lot without you actually realizing. 
+
+
+###### [Back to Home](README.md)
