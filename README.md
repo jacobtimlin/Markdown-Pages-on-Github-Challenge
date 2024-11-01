@@ -5,11 +5,11 @@ Below you will find links to different topics that I find interesting. Each of t
 
 ---
 
-##### Dinosaurs
+### Dinosaurs
 ###### [Dinosaurs](Dinosaurs.md)
 
-##### Gaming
+### Gaming
 ###### [Gaming](Gaming.md)
 
-##### Music
+### Music
 
