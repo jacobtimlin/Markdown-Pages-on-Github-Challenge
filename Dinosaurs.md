@@ -11,6 +11,8 @@ If Mosasaurs were still around today, I think that a lot of people would be extr
 
 Mosasaurs lived along dinosaurs during the Late Cretaceous period.
 
+![Mosasaur Picture](https://th-thumbnailer.cdn-si-edu.com/xrr5mu7hQUJk_larSoyVWsPXD5c=/1000x750/filters:no_upscale():focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/c0/c1c02567-59fc-4a94-b25d-8c8503dfccbe/1_gettyimages-166352866_web.jpg)
+
 ## Dinosaur dinosaurs
 
 My favorite actual dinosaur has to be the Spinosaur. Similar to the Mosasaur, the Spinosaur spent a lot of its time underwater. I think a recurring theme with me is that I really like the ocean and water, so it only makes sense that my favorite stuff is from the water as well. 
