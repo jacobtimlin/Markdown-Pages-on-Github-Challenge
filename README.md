@@ -6,10 +6,10 @@ Below you will find links to different topics that I find interesting. Each of t
 ---
 
 ##### Dinosaurs
-[Dinosaurs](Dinosaurs.md)
+###### [Dinosaurs](Dinosaurs.md)
 
 ##### Gaming
-[Gaming](Gaming.md)
+###### [Gaming](Gaming.md)
 
 ##### Music
 
