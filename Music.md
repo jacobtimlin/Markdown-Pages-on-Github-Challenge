@@ -10,7 +10,11 @@ I have playlists dedicated to all sorts of different things. For example, when I
 |---------------|------------------------|
 | Showering     | Zora's Domain          |
 | Running       | Lithonia               |
-
+| Boss Battle   | ...con lentitud poderosa |
+| Sleeping      | Animal Crossing NH Night Theme |
+| Driving       | Duvet                  |
+| Studying      | Moon's Tears by Rozen  |
+| Working       | Nur Getraumt           |
 
 
 
