@@ -1,5 +1,5 @@
-#Dinosaurs
-##Mosasaurs are the coolest non-dinosaur
+# Dinosaurs
+## Mosasaurs are the coolest non-dinosaur
 
 I really like dinosaurs. I like them so much that I decided to take a class about them this semester. My favorite non-dinosaur has to be Mosasaur, which is a giant underwater sea serpent looking one. 
 
@@ -9,6 +9,6 @@ If Mosasaurs were still around today, I think that a lot of people would be extr
 
 Mosasaurs lived along dinosaurs during the Late Cretaceous period.
 
-##Dinosaur dinosaurs
+## Dinosaur dinosaurs
 
 My favorite actual dinosaur has to be the Spinosaur. Similar to the Mosasaur, the Spinosaur spent a lot of its time underwater. I think a recurring theme with me is that I really like the ocean and water, so it only makes sense that my favorite stuff is from the water as well. 
