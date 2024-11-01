@@ -9,7 +9,7 @@ I have playlists dedicated to all sorts of different things. For example, when I
 | Activity      | Song Example           |
 |---------------|------------------------|
 | Showering     | Zora's Domain          |
-| Running       | Lithonia by Childish Gambino |
+| Running       | Lithonia               |
 
 
 
