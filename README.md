@@ -12,4 +12,7 @@ Below you will find links to different topics that I find interesting. Each of t
 ###### [Gaming](Gaming.md)
 
 ### Music
+###### [Music](Music.md)
 
+
+[^1]: Thank you!
