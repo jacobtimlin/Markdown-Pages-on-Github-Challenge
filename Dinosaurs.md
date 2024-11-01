@@ -14,3 +14,6 @@ Mosasaurs lived along dinosaurs during the Late Cretaceous period.
 ## Dinosaur dinosaurs
 
 My favorite actual dinosaur has to be the Spinosaur. Similar to the Mosasaur, the Spinosaur spent a lot of its time underwater. I think a recurring theme with me is that I really like the ocean and water, so it only makes sense that my favorite stuff is from the water as well. 
+
+
+###### [Back to Home](README.md)
