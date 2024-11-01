@@ -14,5 +14,6 @@ Below you will find links to different topics that I find interesting. Each of t
 ### Music
 ###### [Music](Music.md)
 
-
-[^1]: Thank you!
+ 
+ 
+ **Thank you! 😄**
